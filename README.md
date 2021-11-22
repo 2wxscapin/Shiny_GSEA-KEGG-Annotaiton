@@ -1,4 +1,4 @@
-# GSEA-KEGG Annotaiton Shiny Tool
+# GSEA-KEGG Annotation Shiny Tool
 Based on R package `clusterProfiler` and `misgdf`.
 It will look like:
 ![](https://s2.ax1x.com/2019/08/14/mkLXNV.png)
